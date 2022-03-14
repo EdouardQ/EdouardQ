@@ -17,7 +17,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EdouardQ&show_icons=true&count_private=true" width="430"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdouardQ&count_private=true&show_icons=true&layout=compact&langs_count=6"></a>
 </p>
-
+<!--
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/EdouardQ/EdouardQ"></a>
 </p>
