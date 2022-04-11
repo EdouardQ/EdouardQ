@@ -1,9 +1,11 @@
 <h1 align='center'>
-  Hi there 👋
+  Hello There 👋
 </h1>
 
 <p align='center'>
   🎓 Student in Web dev & Computer Science at H3 Hitema in Paris, France
+  <br>
+  :desktop_computer: I'm looking for apprenticeship in Web dev company for september 2022
 </p>
 
 
