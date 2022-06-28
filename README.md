@@ -3,9 +3,9 @@
 </h1>
 
 <p align='center'>
-  🎓 Student in Web dev & Computer Science at H3 Hitema in Paris, France
+  🎓 Actually preparing my Master's degree in Web dev & Computer Science at H3 Hitema in Paris, France
   <br>
-  :desktop_computer: I'm looking for apprenticeship in Web dev company for 2 years to prepare my master, from September 2022.
+  :desktop_computer: in apprenticeship at Qard. for 2 years
 </p>
 
 
