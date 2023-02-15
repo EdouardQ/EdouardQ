@@ -5,7 +5,7 @@
 <p align='center'>
   🎓 Actually preparing my Master's degree in Web dev & Computer Science at H3 Hitema in Paris, France
   <br>
-  :desktop_computer: in apprenticeship at Qard. for 2 years
+  :desktop_computer: in apprenticeship at Qard
 </p>
 
 
