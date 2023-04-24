@@ -17,7 +17,7 @@
 <p align='center'>
   Here my differents projects :
   <br>
-  <a href='https://gas-api.ovh/api' target='_blank'>Gas Api</a>
+  <a href="https://gas-api.ovh/api" target="_blank">Gas Api</a>
 </p>
 
 <br>
