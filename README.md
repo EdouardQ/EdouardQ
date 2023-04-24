@@ -8,6 +8,12 @@
   :desktop_computer: in apprenticeship at Qard
 </p>
 
+<p align='center'>
+  Here my differents projects :
+  <br>
+  <a href='https://gas-api.ovh/api'>Gas Api</a>
+</p>
+
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/edouard-quilliou/">
