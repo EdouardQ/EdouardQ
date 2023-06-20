@@ -24,13 +24,18 @@
 
 <br>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EdouardQ&show_icons=true&count_private=true" width="430" height="190"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdouardQ&count_private=true&show_icons=true&layout=compact&langs_count=6" height="190"></a>
-</p>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,symfony,docker,mysql,js,ts,react,py,flutter,github,git,aws,ps,androidstudio,postman,discord&perline=8" />
   </a>
 </p>
+
+<br>
+
+<details align='center'>
+  <summary>Github Stats</summary>
+  <p>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EdouardQ&show_icons=true&count_private=true" width="430" height="190"></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdouardQ&count_private=true&show_icons=true&layout=compact&langs_count=6" height="190"></a>
+  </p>
+</details>
