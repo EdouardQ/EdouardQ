@@ -25,25 +25,12 @@
 <br>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EdouardQ&show_icons=true&count_private=true" width="430"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdouardQ&count_private=true&show_icons=true&layout=compact&langs_count=6"></a>
-</p>
-<!--
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/EdouardQ/EdouardQ"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EdouardQ&show_icons=true&count_private=true" width="430" height="190"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdouardQ&count_private=true&show_icons=true&layout=compact&langs_count=6" height="190"></a>
 </p>
 
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🌩️ 
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,symfony,docker,mysql,js,ts,react,py,flutter,github,git,aws,ps,androidstudio,postman,discord&perline=8" />
+  </a>
+</p>
