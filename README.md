@@ -18,6 +18,8 @@
   Here my differents projects :
   <br>
   <a href="https://gas-api.ovh/api">Gas Api</a>
+  <br>
+  <a href="https://drinkty-party.ovh">Drinky Party</a>
 </p>
 
 <br>
