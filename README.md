@@ -23,7 +23,7 @@
 <br>
 
 <p align='center'>
-  Here my differents projects :
+  Here my different personal and public projects:
   <br>
   <a href="https://gas-api.ovh/api">Gas Api</a>
   <br>
