@@ -14,20 +14,20 @@
   </a>&nbsp;&nbsp;
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,symfony,docker,mysql,js,ts,react,py,flutter,github,git,aws,ps,androidstudio,postman,discord&perline=8" />
+  </a>
+</p>
+
+<br>
+
 <p align='center'>
   Here my differents projects :
   <br>
   <a href="https://gas-api.ovh/api">Gas Api</a>
   <br>
   <a href="https://drinkty-party.ovh">Drinky Party</a>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,symfony,docker,mysql,js,ts,react,py,flutter,github,git,aws,ps,androidstudio,postman,discord&perline=8" />
-  </a>
 </p>
 
 <br>
