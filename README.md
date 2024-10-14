@@ -3,13 +3,11 @@
 </h1>
 
 <p align='center'>
-  🎓 Graduated with a master's degree in Web dev & Computer Science at H3 Hitema in apprenticeship
-  <br>
-  :desktop_computer: Working as Symfony FullStack Developer at Qard, in Paris, France
+:desktop_computer: Working as Symfony FullStack Developer at Free (Iliad), in Paris, France
 </p>
 
 <p align='center'>
-  :point_right: Looking for a permanent contract for September.
+  🎓 Graduated with a master's degree in Web dev & Computer Science at H3 Hitema in apprenticeship
 </p>
 
 <p align='center'>
