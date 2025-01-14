@@ -1,4 +1,4 @@
-<h1 align='center'>
+i<h1 align='center'>
   Hello There 👋
 </h1>
 
@@ -29,5 +29,5 @@
   <br>
   <a href="https://gas-api.ovh/api">Gas Api</a>
   <br>
-  <a href="https://drinkty-party.ovh">Drinky Party</a>
+  <a href="https://drinkty-party.fr">Drinky Party</a>
 </p>
